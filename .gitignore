@@ -102,6 +102,4 @@ ENV/
 
 #working data
 data/raw/
-data/lookup_tables/
-data/clean/
 data/.ipynb_checkpoints/
