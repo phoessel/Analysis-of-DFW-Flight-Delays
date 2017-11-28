@@ -17,5 +17,5 @@ Utilizing the Bureau of Transportation Statistics database our team will perform
 * Do any months have higher frequency of delays?
 
 ### Origin & Destination Airports:
-* Do we see any destinations (from DFW to another airport) that have higher than average delays?
-* Do we see higher than average delays arriving from other locations (from another airport to DFW)?
+* Do we see any destinations (from LAX to another airport) that have higher than average delays?
+* Do we see higher than average delays arriving from other locations (from another airport to LAX)?
