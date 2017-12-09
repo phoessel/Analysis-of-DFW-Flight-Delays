@@ -1,4 +1,11 @@
 pandas==0.20.3
+
 glob2==0.5
+
 matplotlib==2.0.2
+
 numpy==1.13.1
+
+scipy==0.19.1
+geos==0.2.1
+geopy==1.11.0
