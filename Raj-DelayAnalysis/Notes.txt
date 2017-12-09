@@ -1,0 +1,6 @@
+1. Total flights at LAX is 4,21,854 out of which 97,559 flights are delayed.
+2. Flights are considered as delayed only if the delay or arrival time is more than 15 minutes of actual time.
+3. Southwest airlines has most number of delay out of all other airlines.
+4.Frontier, Jetblur, Sprint and southwest airlines delays are more than average delay of the airport
+5.By comparing number of flights operated by each carrier vs delay we can conclude that 
+American Airlines is much better choice to travel considering the chance of us getting into delayed flight.
